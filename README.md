@@ -5,6 +5,9 @@ Smartbiils using CodeInsect CodeIgniter Admin System. This is under **developmen
 
 Smartbills is the vanilla PHP project. I start to convert it into CodeIgniter. I am using my repository CodeIgniter Admin System using AdminLTE for this.
 
+UserName: admin@example.com
+Password: codeinsect
+
 # Licence Text :
 
 As the original developer suggested, I am adding this licence information here.
